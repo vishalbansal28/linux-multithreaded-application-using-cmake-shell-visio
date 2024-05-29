@@ -8,8 +8,8 @@ This is a command-line task manager application built using C++ that demonstrate
 * **Inter-Process Communication (IPC):** Sharing data between threads using shared memory.
 * **CMake Build System:** Automating the build process with CMake.
 * **Shell Scripting:** Using a shell script to easily build and run the application.
-* **Basic Design Patterns:**  Implementing singleton and observer patterns (partially implemented; could be expanded).
-* **Design Visualization:**  The project structure is illustrated using a Microsoft Visio diagram (not included in the repository but recommended).
+* **Basic Design Patterns:**  Implementing singleton and observer patterns .
+* **Design Visualization:**  The project structure is illustrated using a Microsoft Visio diagram.
 
 ## Features
 
@@ -52,7 +52,7 @@ task-manager/
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/linux-multithreaded-application-using-cmake-shell-visio.git
+   git clone https://github.com/vishalbansal28/linux-multithreaded-application-using-cmake-shell-visio.git
    cd linux-multithreaded-application-using-cmake-shell-visio 
    ```
 
